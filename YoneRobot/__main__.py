@@ -355,7 +355,7 @@ def yone_about_callback(update, context):
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
-                 \n❍ I check for admins' permissions before executing any command and more stuffs
+                 \n❍ I check for admins permissions before executing any command and more stuffs
                  \n\n_yone's licensed under the GNU General Public License v3.0_
                  \nHere is the [🛡️Creator🛡️](https://t.me/mkspali).
                  \n\nIf you have any question about yone, let us know at .""",
