@@ -1,3 +1,9 @@
+# YONE_ROBOT
+
+<p align="center">
+  <img src="https://telegra.ph/file/2832417c46e5e242ab548.jpg">
+</p>
+
 <p align="center">
     <a href="https://github.com/RMCMG/YONE_ROBOT/stargazers"><img src="https://img.shields.io/github/stars/RMCMG/YONE_ROBOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
@@ -10,11 +16,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/2832417c46e5e242ab548.jpg">
-</p>
-
-# YONE_ROBOT
+# Find Me on Telegram
 Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
 
 ## How To Host
