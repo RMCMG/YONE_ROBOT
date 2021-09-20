@@ -17,7 +17,7 @@
 </p>
 
 # Find Me on Telegram
-Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
+Me On Telegram [RMCMG](https://t.me/RMCMG_YONE_ROBOT)
 
 ## How To Host
 The easiest way to deploy this Bot
